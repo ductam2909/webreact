@@ -1,0 +1,86 @@
+
+[
+    {
+        "id" :1 ,
+        "tieuDe":"Món ngon mỗi ngày 1",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m4.jpg",
+        "gia" :"100 000 VND"
+    },
+    {
+        "id" :2 ,
+        "tieuDe":"Món ngon mỗi ngày 2",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m3.jpg",
+        "gia" :"100 000 VND"
+    },
+    {
+        "id" :3 ,
+        "tieuDe":"Món ngon mỗi ngày 3",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m3.jpg",
+        "gia" :"100 000 VND"
+    },
+    {
+        "id" :4 ,
+        "tieuDe":"Món ngon mỗi ngày 4",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m5.jpg",
+        "gia" :"100 000 VND"
+       
+    },
+    {
+        "id" :5 ,
+        "tieuDe":"Món ngon mỗi ngày 5",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m4.jpg",
+        "anh2":"./assets/images/m3.jpg",
+        "gia" :"100 000 VND"
+    }
+    ,
+    {
+        "id" :6 ,
+        "tieuDe":"Món ngon mỗi ngày 6",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m4.jpg",
+        "anh2":"./assets/images/m3.jpg",
+        "gia" :"100 000 VND"
+    }
+    ,
+    {
+        "id" :7 ,
+        "tieuDe":"Món ngon mỗi ngày 7",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m4.jpg",
+        "anh2":"./assets/images/m3.jpg",
+        "gia" :"100 000 VND"
+    }
+    ,
+    {
+        "id" :8 ,
+        "tieuDe":"Món ngon mỗi ngày 8",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m4.jpg",
+        "anh2":"./assets/images/m3.jpg",
+        "gia" :"100 000 VND"
+    }
+    ,
+    {
+        "id" :9 ,
+        "tieuDe":"Món ngon mỗi ngày 9",
+        "trichDan":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "noiDung":"Món ngon mỗi ngày dễ làm - Thực đơn các MÓN NGON mỗi ngày đơn giản và ngon rẻ tiết kiệm nhất dành cho mỗi gia đình. Bí quyết nấu Mon ngon moi ngay",
+        "anh1":"./assets/images/m4.jpg",
+        "anh2":"./assets/images/m3.jpg",
+        "gia" :"100 000 VND"
+    }
+    
+]
